@@ -1,0 +1,5 @@
+Últimos 3 commits del repositorio:
+
+3898020 - Richard, 40 minutes ago : Create log_commits.go to log recent commits
+6895b6c - Richard, 45 minutes ago : Add test.txt with initial content 'teeest'
+a313d47 - Richard, 49 minutes ago : Add GitHub Actions workflow for commit logging
